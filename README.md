@@ -1,6 +1,6 @@
 # AI-Crop-Recommendation-System-and-Plant-Pathogen-Detector-
-This PHP + Python-based system allows users to upload plant leaf images and detect diseases using a trained deep learning model (TensorFlow/Keras).
-This project combines IoT-based soil analysiswith deep learning leaf disease detection to assist farmers in making smart, data-driven agricultural decisions. It leverages a 7-in-1 Soil Tester Sensor and custom-trained CNN models to provide accurate crop recommendations and identify plant pathogens.
+This PHP + Python-based system  using a trained deep learning model (TensorFlow/Keras).
+The project combines IoT-based soil analysiswith deep learning leaf disease detection to assist farmers in making smart, data-driven agricultural decisions. It leverages a 7-in-1 Soil Tester Sensor and custom-trained CNN models to provide accurate crop recommendations and identify plant pathogens.
 ## 📽️ YouTube Demo  
 [![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red)](https://www.youtube.com/watch?v=your-demo-link)
 
