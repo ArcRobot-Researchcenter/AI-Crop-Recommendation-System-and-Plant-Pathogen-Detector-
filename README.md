@@ -147,8 +147,6 @@ CREATE TABLE leaf_disease_predictions (
 );
 ```
 
----
-
 ## 💡 Future Enhancements
 
 - Expand model to support 20+ plant species  
@@ -156,7 +154,14 @@ CREATE TABLE leaf_disease_predictions (
 - Integrate IoT hardware for real-time field deployment  
 - Add voice alerts or SMS reminders to farmers
 
----
+## 💡 Download Dataset
+https://drive.google.com/file/d/1xPEkYSkTBZGfQrQZ7GKfc5Wza9jJifdB/view?usp=drive_link
+
+## 💡 Download Model 
+https://drive.google.com/file/d/1hD4LOLj-fBNlTnQReUPwoWaAt3CRfjbl/view?usp=drive_link
+
+## 💡 Download Complet Project with model and Dataset
+https://drive.google.com/file/d/1KyZ21LMouv0H_N_kDnuMvpKDN69KWRCV/view?usp=sharing
 
 ## 🧑‍💻 Author
 
