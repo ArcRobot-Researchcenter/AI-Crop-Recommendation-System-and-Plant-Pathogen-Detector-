@@ -160,6 +160,8 @@ https://drive.google.com/file/d/1xPEkYSkTBZGfQrQZ7GKfc5Wza9jJifdB/view?usp=drive
 ## 💡 Download Model 
 https://drive.google.com/file/d/1hD4LOLj-fBNlTnQReUPwoWaAt3CRfjbl/view?usp=drive_link
 
+The model and dataset contain Tomato, Rice, Maize, Potato, and Grapes
+
 ## 💡 Download Complet Project with model and Dataset
 https://drive.google.com/file/d/1KyZ21LMouv0H_N_kDnuMvpKDN69KWRCV/view?usp=sharing
 
